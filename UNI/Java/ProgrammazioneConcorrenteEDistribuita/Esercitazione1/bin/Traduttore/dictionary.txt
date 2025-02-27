@@ -1,0 +1,5 @@
+gatto cat
+cane dog
+topo mouse
+asino donkey
+cavallo horse
