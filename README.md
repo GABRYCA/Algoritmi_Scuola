@@ -38,9 +38,9 @@ Se vuoi contribuire a questo progetto, puoi contattarmi tramite [email](mailto:a
 
 > [!NOTE]
 > Nomi: GABRYCA - AnonymousGCA
-> Email: anonymousgca@anonymousgca.eu
-> Sito: [anonymousgca.eu](https://anonymousgca.eu)
-> Discord: [Invito](https://discord.gg/BGTB8XCfZK)
+> <br>Email: anonymousgca@anonymousgca.eu
+> <br>Sito: [anonymousgca.eu](https://anonymousgca.eu)
+> <br>Discord: [Invito](https://discord.gg/BGTB8XCfZK)
 
 ## Riconoscimenti
 
