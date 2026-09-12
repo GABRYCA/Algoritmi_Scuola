@@ -31,6 +31,8 @@ Repository personale di algoritmi e progetti, fatti a scuola o in università.
 * 🔗 [Programmazione di Dispositivi Mobili - Università degli Studi dell'Insubria](https://github.com/GABRYCA/MelanomaTNM)
 * 📝 [Appunti Programmazione di Dispositivi Mobili - Università degli Studi dell'Insubria](https://github.com/GABRYCA/appunti-programmazione-dispositivi-mobili)
 
+* 📖 [Guida italiana a TypeScript](https://gibbok.github.io/typescript-book/it-it/) — risorsa gratuita e open source per approfondire TypeScript
+
 ---
 
 ## 💻 Linguaggi
